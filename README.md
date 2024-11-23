@@ -19,7 +19,7 @@ The list below is ranked from global preferences:
     * Preferred to be transparant for easy monitoring of the roots.
 * [Self-watering inserts (Elho BE)](https://www.elho.com/be/producten/self-watering-insert/self-watering-insert-28cm-living-black/?scroll=305)
     * Important note: Look at the following diagram below.
-  
+  ![](/Pictures/elho-selfwatering-sizeguide.jpeg)
 ### Optional
 * Wicks (when nursery/self-watering pots don’t have “feets” to wick up the water)
     * In general people like to use wicks in particular with leca
