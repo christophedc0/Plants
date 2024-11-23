@@ -7,3 +7,6 @@
 ### Pots
 * ELHO [Self-watering inserts](https://www.elho.com/be/producten/self-watering-insert/self-watering-insert-17cm-living-black)
 * Random nursery pots
+### Substrates
+* Lechuza PON
+* LECA
