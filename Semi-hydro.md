@@ -1,5 +1,3 @@
-# Plants
-
 # Semi-Hydro
 ## Equipment
 ### Substrates
