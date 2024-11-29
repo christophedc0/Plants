@@ -17,4 +17,5 @@
 | --- | --- | --- |
 | 🌱 | `:seedling:` | Baby |
 | 🪴 | `:potted_plant:` | Plant |
+| 💧🪴 | `:droplet::potted_plant:` | (Semi) Hydro Plant |
 | 💀 | `:skull:` | Dead |
