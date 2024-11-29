@@ -8,7 +8,8 @@
 | TBD | Syngonium Pink Splash | 29/11/2024 |  | :seedling: |
 | TBD | Syngonium Mottled | 29/11/2024 |  | :seedling: |
 |  | Monstera Thai Constellation |  25/11/2024 |  | 🪴 |
-|  | Monstera Deliciosa Albo Variegata (Highly variegated) |  | 🪴 |
+|  | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |
+|  | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |
 
 ## Status cheatsheet
 
