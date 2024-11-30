@@ -1,21 +1,31 @@
 # Life Cycle & Inventory
 
-| Name | Scientific name | Born | Update | Status | 
-| --- | --- | --- | --- | --- |
-| Dummy | Dummy | 20/11/2024 | 29/11/2024 | :seedling: |
-| TBD | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | :seedling: |
-| TBD | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | :seedling: |
-| TBD | Syngonium Pink Splash | 29/11/2024 |  | :seedling: |
-| TBD | Syngonium Mottled | 29/11/2024 |  | :seedling: |
-|  | Monstera Thai Constellation |  25/11/2024 |  | 🪴 |
-|  | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |
-|  | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |
+| Name | Scientific name | Born | Update | Status | Semihydro conversion |
+| --- | --- | --- | --- | --- | --- |
+| Dummy | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 |
+| TBD | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | 🌱🪴 |  |
+| TBD | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |
+| TBD | Syngonium Pink Splash | 29/11/2024 |  | 🌱🪴 |  |
+| TBD | Syngonium Mottled | 29/11/2024 |  | 🌱🪴 |  |
+|  | Monstera Thai Constellation |  25/11/2024 |  | 🌱🪴 |  |
+| Jasmine | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |
+| Cynthia | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |  |
+| Dan Akroyd | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |
+| Bill Murray | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |
+| Reeves | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |
+| Hopper | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |
+| Bullock | Euphorbia Acruensis | 04/05/2024 |  | 🌵 |  |
+| John McClane | Dracanea Janet Lind | 10/07/2024 |  | 🪴 |  |
+| Rami Malek | Alocasia Zebrina | 10/07/2024 |  | 🪴 |  |
+
 
 ## Status cheatsheet
 
 | Emoji | Code | Meaning |
 | --- | --- | --- |
-| 🌱 | `:seedling:` | Baby |
+| 🌱🪴 | `:seedling:``:potted_plant:` | Baby Plant |
+| 🌱🌵 | `:seedling:``:cactus:` | Baby Cactus |
 | 🪴 | `:potted_plant:` | Plant |
-| 💧🪴 | `:droplet::potted_plant:` | (Semi) Hydro Plant |
+| 🌵 | `:cactus:` | Cactus (Related) |
+| 💧🪴 | `:droplet:``:potted_plant:` | (Semi) Hydro Plant |
 | 💀 | `:skull:` | Dead |
