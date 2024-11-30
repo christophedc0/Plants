@@ -9,7 +9,7 @@
 | TBD | Araceae | Syngonium Mottled | 29/11/2024 |  | 🌱🪴 |  |  |
 | TBD | Cactaceae | Echinocactus grusonil (Golden Barrel) | 22/11/2024 |  | 🌱🌵 |  |  |
 | TBD | Urticaceae | Pilea Moon Valley (Pancake) | 22/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Araceae | Alocasia (Unknown) | 22/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Alocasia Polly | 22/11/2024 |  | 🌱🪴 |  |  |
 | TBD | Araceae | Monstera Thai Constellation |  22/11/2024 |  | 🌱🪴 |  |  |
 | Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
 | Cynthia | Malvaceae | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |  |  |
