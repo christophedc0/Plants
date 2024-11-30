@@ -79,12 +79,17 @@ If cutting was grown on water, you don’t need to water it normally, as the roo
 ### Plants on soil
 
 #### Converting
-1. Remove soil.
-2. Rinse the roots.
+1. Grab your plant.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0133.jpeg" width="35%">
+2. Remove soil and rinse the roots.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0134.jpeg" width="35%">
 3. Remove dead roots (if any).
-4. Put your substrate in your grow/self-watering pot to about 1/3th.
-5. Plant your plant on the substrate.
-6. Cover with more substrate.
+4. Put your substrate in your grow/self-watering pot to about 1/3th.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0135.jpeg" width="35%">
+6. Plant your plant on the substrate and cover with more substrate.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0137.jpeg" width="35%">
+7. Water your plant thoroughly.  
+    <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0138.jpeg" width="35%">
    
 #### Watering
 
@@ -96,10 +101,11 @@ If cutting was grown on water, you don’t need to water it normally, as the roo
 
 #### Converting
 
-1. Put your substrate in your grow/self-watering pot to about 1/3th.
-2. Plant your plant on the substrate.
-3. Cover with more substrate.
-4. Fill the self-watering reservoir or add water to your non-draining outer (decorative) pot.
+1. Put your substrate in your grow/self-watering pot to about 1/3th.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0135.jpeg" width="35%">
+2. Plant your plant on the substrate and cover with more substrate.  
+   <img src="Pictures/Semi-hydro/FloraBasePro/IMG_0137.jpeg" width="35%">
+3. Fill the self-watering reservoir or add water to your non-draining outer (decorative) pot.
 
 #### Watering
 
@@ -115,4 +121,3 @@ If cutting was grown on water, you don’t need to water it normally, as the roo
 * Roots that were grown in soil should not be submerged with water, they will rot.
 * New developed roots that were on a substrate will be adapted to be in water, I call these water roots and these can be submerged.  
   This will require that these roots are always submerged in water or there’s a chance of them drying up and rotting eventually.
-
