@@ -49,6 +49,7 @@ Copilot Comparison table:
 ### Self-watering or nursery/grow inserts/pots
 * [Hydroculture pots (Amazon BE)](https://www.amazon.com.be/Hydrocultuurmanden-plantenbakken-kunststof-herbruikbaar-hydrocultuur/dp/B07MFTB1DX/ref=sr_1_53_sspa)
     * Preferred to be transparant for easy monitoring of the roots.
+* [Self-Watering Aroid Pots / Anti-Spiral Roots (Plantscraper EU)](https://plantscraper.com/products/self-watering-aroid-pots)
 * [Self-watering inserts (Elho BE)](https://www.elho.com/be/producten/self-watering-insert/self-watering-insert-28cm-living-black/?scroll=305)
     * Important note: Look at the following diagram below.
   ![](/Pictures/elho-selfwatering-sizeguide.jpeg)
