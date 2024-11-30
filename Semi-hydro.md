@@ -23,7 +23,7 @@ The list below is ranked from global preferences:
 | **Lechuza PON** | Zeolite, pumice, lava | Pre-fertilized, volume-stable, pest-free, optimal air/water ratio | Houseplants, large planters |
 | **Lechuza BASIC PON** | Pumice, lava, zeolite | Not pre-fertilized, volume-stable, pH-stable, pest-free | Sensitive plants, cuttings |
 | **Leca**        | Expanded clay | Lightweight, porous, reusable, pathogen-free | Hydroponics, aquaponics |
-| **Pumice**      | Volcanic rock | | Lightweight, porous, retains moisture, pest-free | Horticulture, bonsai |
+| **Pumice**      | Volcanic rock | Lightweight, porous, retains moisture, pest-free | Horticulture, bonsai |
 | **Zeolite**     | Microporous, aluminosilicate minerals| Water retention, ion-exchange, pest-free | Agriculture, water purification |
 | **Lava rocks**  | Volcanic rock | Lightweight, porous, pest-free | Hydroponics, drainage |
 | **Perlite**     | Volcanic glass | Lightweight, porous, moisture retention, pest-free | Soil amendment, hydroponics |
