@@ -2,7 +2,7 @@
 
 | Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dummy | Dummy | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
+| Dummy | Dummyaceae | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
 | TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | 🌱🪴 |  |  |
 | TBD | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
 | TBD | Araceae | Syngonium Pink Splash | 29/11/2024 |  | 🌱🪴 |  |  |
@@ -27,8 +27,9 @@
 | Emoji | Code | Meaning |
 | --- | --- | --- |
 | 🌱🪴 | `:seedling:` `:potted_plant:` | Baby Plant |
-| 🌱🌵 | `:seedling:` `:cactus:` | Baby Cactus |
+| 🌱🌵 | `:seedling:` `:cactus:` | Baby Cactus (Relatives) |
 | 🪴 | `:potted_plant:` | Plant |
-| 🌵 | `:cactus:` | Cactus (Related) |
+| 🌵 | `:cactus:` | Cactus (Relatives) |
 | 💧🪴 | `:droplet:` `:potted_plant:` | (Semi) Hydro Plant |
+| 💧🌵 | `:droplet:` `:cactus:` | (Semi) Hydro Cactus (Relatives) |
 | 💀 | `:skull:` | Dead |
