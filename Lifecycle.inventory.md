@@ -1,25 +1,25 @@
 # Life Cycle & Inventory
 
-| Name | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
-| --- | --- | --- | --- | --- | --- | --- |
-| Dummy | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 |  |
-| TBD | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Syngonium Pink Splash | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Syngonium Mottled | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Echinocactus grusonil (Golden Barrel) | 22/11/2024 |  | 🌱🌵 |  |  |
-| TBD | Pilea Moon Valley (Pancake) | 22/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Alocasia (Unknown) | 22/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Monstera Thai Constellation |  22/11/2024 |  | 🌱🪴 |  |  |
-| Jasmine | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
-| Cynthia | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |  |  |
-| Dan Akroyd | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
-| Bill Murray | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
-| Reeves | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |  |
-| Hopper | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |  |
-| Bullock | Euphorbia Acruensis | 04/05/2024 |  | 🌵 |  |  |
-| John McClane | Dracanea Janet Lind | 10/07/2024 |  | 🪴 |  |  |
-| Rami Malek | Alocasia Zebrina | 10/07/2024 |  | 🪴 |  |  |
+| Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dummy | Dummy | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 |  |
+| TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Syngonium Pink Splash | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Syngonium Mottled | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Cactaceae | Echinocactus grusonil (Golden Barrel) | 22/11/2024 |  | 🌱🌵 |  |  |
+| TBD | Urticaceae | Pilea Moon Valley (Pancake) | 22/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Alocasia (Unknown) | 22/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Araceae | Monstera Thai Constellation |  22/11/2024 |  | 🌱🪴 |  |  |
+| Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
+| Cynthia | Malvaceae | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |  |  |
+| Dan Akroyd | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
+| Bill Murray | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
+| Reeves | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |  |
+| Hopper | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 |  | 🌱🌵 |  |  |
+| Bullock | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 |  | 🌵 |  |  |
+| John McClane | Asparagaceae | Dracanea Janet Lind | 10/07/2024 |  | 🪴 |  |  |
+| Rami Malek | Araceae | Alocasia Zebrina | 10/07/2024 |  | 🪴 |  |  |
 
 
 ## Status cheatsheet
