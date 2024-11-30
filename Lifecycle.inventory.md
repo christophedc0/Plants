@@ -3,7 +3,7 @@
 | Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dummy | Dummyaceae | Dummy | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
-| TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
 | TBD | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
