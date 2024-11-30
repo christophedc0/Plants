@@ -5,13 +5,47 @@ Use smaller material for plants with tiny roots, use bigger material for plants 
 Also keep in mind the weight of the plant, a high heavy cactus might easily fall over in Leca.
 
 The list below is ranked from global preferences:
-1. Lechuza PON (Has nutrients for the first +-6months!)
-2. Lechuza BASIC PON (No nutrients!)
-3. Leca (No nutrients!)
-4. Pumice (No nutrients!)
-5. Zeolite (No nutrients!)
-6. Lava rocks (No nutrients!)
-7. Perlite (No nutrients!) (Very lightweight!)
+1. __Lechuza PON__ (Has nutrients for the first +-6months!)
+2. __Lechuza BASIC PON__ (No nutrients!)
+3. __Leca__ (No nutrients!)
+4. __Pumice__ (No nutrients!)
+5. __Zeolite__ (No nutrients!)
+6. __Lava rocks__ (No nutrients!)
+7. __Perlite__ (No nutrients!) (Very lightweight!)
+
+CoPilot Comparison table:
+
+| Substrate | Composition | Key Features | Uses |
+| --- | --- | --- | --- |
+| **Lechuza PON** | Zeolite, pumice, lava | Pre-fertilized, volume-stable, pest-free, optimal air/water ratio | Houseplants, large planters |
+| **Lechuza BASIC PON** | Pumice, lava, zeolite | Not pre-fertilized, volume-stable, pH-stable, pest-free | Sensitive plants, cuttings |
+| **Leca**        | Expanded clay | Lightweight, porous, reusable, pathogen-free | Hydroponics, aquaponics |
+| **Pumice**      | Volcanic rock | | Lightweight, porous, retains moisture, pest-free | Horticulture, bonsai |
+| **Zeolite**     | Microporous, aluminosilicate minerals| Water retention, ion-exchange, pest-free | Agriculture, water purification |
+| **Lava rocks**  | Volcanic rock | Lightweight, porous, pest-free | Hydroponics, drainage |
+| **Perlite**     | Volcanic glass | Lightweight, porous, moisture retention, pest-free | Soil amendment, hydroponics |
+
+8. __Fluval Stratum__
+
+   Super nutrient rich substrate originally used in aquariums, but which people use for sprouting corms, rooting props, and rehabilitating stressed/damaged plant(s).  
+
+   It encourages root growth a ton and has the plant grow water roots which is great for moving them to semihydro later.
+
+   *I'm currently trying this out but with an alternative solution named, __Flora Base Pro__. According to CoPilot, __ADA Aquasoil__ would also be a good alternative.*
+
+Copilot Comparison table:
+
+| Feature | Fluval Stratum | Flora Base Pro | ADA Aquasoil |
+| --- | --- | --- | --- |
+| **Composition** | Volcanic soil from Mount Aso in Japan, clay-based | Blend of natural clay and organic materials | Baked soil granules, Japanese plant-based black soil |
+| **Nutrient Content** | Contains essential nutrients and minerals | Rich in nutrients, often includes beneficial bacteria | Extremely rich in organic nutrients and necessary elements |
+| **pH Buffering** | Helps maintain a stable pH level | Helps maintain a stable pH level | Lowers pH and KH levels, creating a perfect environment for plants |
+| **Weight** | Lightweight and porous | Generally lightweight | Lightweight, uniform grain size |
+| **Water Quality** | Does not leach ammonia | Inert, doesn't alter water chemistry significantly | Retains nutrients and releases them slowly, captures dirt floating in water |
+| **Plant Support** | Good for root growth and stability | Good for anchoring plants and promoting root growth | Promotes fast-growing roots, holds them in place |
+| **Cons** | More expensive, may need rinsing before use | More expensive, may need rinsing before use | Can lower pH significantly, may require adjustment |
+
+
 ### Self-watering or nursery/grow inserts/pots
 * [Hydroculture pots (Amazon BE)](https://www.amazon.com.be/Hydrocultuurmanden-plantenbakken-kunststof-herbruikbaar-hydrocultuur/dp/B07MFTB1DX/ref=sr_1_53_sspa)
     * Preferred to be transparant for easy monitoring of the roots.
