@@ -11,6 +11,8 @@
 | TBD | Urticaceae | Pilea Moon Valley (Pancake) | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Araceae | Alocasia Polly | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Araceae | Monstera Thai Constellation |  22/11/2024 |  | 🌱🪴 |  |  |
+| TBD | Orchidaceae | Orchid (Tiny Dolls Yellow) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Roots had to be cut due to rot.  Put in Leca |
+| TBD | Orchidaceae | Orchid (Tiny Dolls Yellow/Pink Splatters) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Put in Leca |
 | Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
 | Cynthia | Malvaceae | Pachira Aquatica (Money Tree) | 18/11/2024 |  | 🪴 |  |  |
 | Dan Akroyd | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
