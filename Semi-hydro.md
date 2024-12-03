@@ -94,7 +94,9 @@ If cutting was grown on water, you don’t need to water it normally, as the roo
 #### Watering
 
 1. Water the plant on top of the substrate, like how you would do when it’s potted in soil.  
-   This will make sure that the roots can adapt to the semi-hydro process instead of soil.
+   This will make sure that the roots can adapt to the semi-hydro process instead of soil.  
+   Most people refer to this as *flushing*, pouring in water on the top till it runs through the bottom.  
+   **Repeat** this when the top of the PON is dry (estimated every 2 - 4 days depending on pot size).
 3. After a few weeks, start watering by filling the reservoir or outer (decorative) pot to about the bottom or 1/3th of the nursery/grow pot.
    
 ### Cuttings on water
