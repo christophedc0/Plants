@@ -12,7 +12,7 @@
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+| TBD #9 | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD #5 | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
 | TBD #4 | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD #3 | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
