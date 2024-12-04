@@ -3,34 +3,34 @@
 | Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dummy | Dummyaceae | Dummy name | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
-| TBD #8 | Araceae | Alocasia Frydek Variegata (B-grade) | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD #7 | Araceae | Philodendron Burgundy Princess | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD #6 | Araceae | Philodendron Ring Of Fire | 04/12/2024 |  | 🌱🪴 |  |  |
+v| TBD #8 | Araceae | Alocasia Frydek Variegata (B-grade) | 04/12/2024 |  | 🌱🪴 |  |  |
+v| TBD #7 | Araceae | Philodendron Burgundy Princess | 04/12/2024 |  | 🌱🪴 |  |  |
+v| TBD #6 | Araceae | Philodendron Ring Of Fire | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD #9 | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD #5 | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD #4 | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD #3 | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+v| TBD #9 | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+v| TBD #5 | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
+v| TBD #4 | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+v| TBD #3 | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 x| TBD #10 | Cactaceae | Echinocactus grusonil (Golden Barrel) | 22/11/2024 | 30/11/2024 | 🌱💧🌵 | 30/11/2024 | Put in Flora Base Pro |
 x| TBD #11 | Urticaceae | Pilea Moon Valley (Pancake) | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD #2 | Araceae | Alocasia Polly | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD #1 | Araceae | Monstera Thai Constellation |  22/11/2024 | 02/12/2024 | 🌱💧🪴 | 02/12/2024 | Put in PON |
+v| TBD #2 | Araceae | Alocasia Polly | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+v| TBD #1 | Araceae | Monstera Thai Constellation |  22/11/2024 | 02/12/2024 | 🌱💧🪴 | 02/12/2024 | Put in PON |
 x| TBD | Orchidaceae | Orchid (Tiny Dolls Yellow) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Roots had to be cut due to rot.  Put in Leca |
 x| TBD | Orchidaceae | Orchid (Tiny Dolls Yellow/Pink Splatters) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Put in Leca |
-| Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
+v| Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
 x| Cynthia | Malvaceae | Pachira Aquatica (Money Tree) | 18/11/2024 | 02/12/2024 | 💧🪴 | 02/12/2024 | Put in PON |
-| Dan Akroyd | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
-| Bill Murray | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
+v| Dan Akroyd | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
+v| Bill Murray | Asparagaceae | Sansevieria Laurentii | 26/10/2024 |  | 🪴 |  |  |
 x| Reeves | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 | 30/11/2024 | 🌱💧🌵 | 30/11/2024 | Put in Lechuza PON |
 x| Hopper | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 | 30/11/2024 | 🌱💧🌵 | 30/11/2024 | Put in Lechuza PON |
 x| Bullock | Euphorbiaceae | Euphorbia Acruensis | 04/05/2024 | 30/11/2024 | 💧🌵 | 30/11/2024 | Put in Lechuza PON |
-x| John McClane | Asparagaceae | Dracanea Janet Lind | 10/07/2024 |  | 🪴 |  |  |
-| Rami Malek | Araceae | Alocasia Zebrina | 10/07/2024 |  | 🪴 |  |  |
+v| John McClane | Asparagaceae | Dracanea Janet Lind | 10/07/2024 |  | 🪴 |  |  |
+v| Rami Malek | Araceae | Alocasia Zebrina | 10/07/2024 |  | 🪴 |  |  |
 
 
 ## Status cheatsheet
