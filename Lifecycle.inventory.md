@@ -1,5 +1,8 @@
 # Life Cycle & Inventory
 
+Please check the [Wiki](https://github.com/christophedc0/Plants/wiki), this has been deprecated.
+
+
 | Wiki | Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | - | Dummy | Dummyaceae | Dummy name | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
