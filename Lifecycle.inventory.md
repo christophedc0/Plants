@@ -3,9 +3,9 @@
 | Name | Family | Scientific name | Born | Update | Status | Semihydro conversion | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dummy | Dummyaceae | Dummy name | 20/11/2024 | 29/11/2024 | :seedling: | 30/11/2024 | Something special |
-| TBD | Araceae | Alocasia Frydek Variegata (B-grade) | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD | Araceae | Philodendron Burgundy Princess | 04/12/2024 |  | 🌱🪴 |  |  |
-| TBD | Araceae | Philodendron Ring Of Fire | 04/12/2024 |  | 🌱🪴 |  |  |
+| TBD #8 | Araceae | Alocasia Frydek Variegata (B-grade) | 04/12/2024 |  | 🌱🪴 |  |  |
+| TBD #7 | Araceae | Philodendron Burgundy Princess | 04/12/2024 |  | 🌱🪴 |  |  |
+| TBD #6 | Araceae | Philodendron Ring Of Fire | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
@@ -13,13 +13,13 @@
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | ??? | ??? | 04/12/2024 |  | 🌱🪴 |  |  |
 | TBD | Strelitziaceae | Strelitzia Nicolai (Bird of Paradise) | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
-| TBD | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+| TBD #5 | Araceae | Alocasia Frydek Variegata (B-grade) | 29/11/2024 |  | 🌱🪴 |  |  |
+| TBD #4 | Araceae | Syngonium Pink Splash | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+| TBD #3 | Araceae | Syngonium Mottled | 29/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Cactaceae | Echinocactus grusonil (Golden Barrel) | 22/11/2024 | 30/11/2024 | 🌱💧🌵 | 30/11/2024 | Put in Flora Base Pro |
 | TBD | Urticaceae | Pilea Moon Valley (Pancake) | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD | Araceae | Alocasia Polly | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
-| TBD | Araceae | Monstera Thai Constellation |  22/11/2024 | 02/12/2024 | 🌱💧🪴 | 02/12/2024 | Put in PON |
+| TBD #2 | Araceae | Alocasia Polly | 22/11/2024 | 30/11/2024 | 🌱💧🪴 | 30/11/2024 | Put in Flora Base Pro |
+| TBD #1 | Araceae | Monstera Thai Constellation |  22/11/2024 | 02/12/2024 | 🌱💧🪴 | 02/12/2024 | Put in PON |
 | TBD | Orchidaceae | Orchid (Tiny Dolls Yellow) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Roots had to be cut due to rot.  Put in Leca |
 | TBD | Orchidaceae | Orchid (Tiny Dolls Yellow/Pink Splatters) | Unknown | 01/12/2024 | 💧🪴 | 01/12/2024 | Put in Leca |
 | Jasmine | Araceae | Monstera Deliciosa Albo Variegata (Highly variegated) | 14/11/2024 |  | 🪴 |  |  |
